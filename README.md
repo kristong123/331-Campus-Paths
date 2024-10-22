@@ -3,7 +3,7 @@
 This project consists of a client-server application for displaying and interacting with UW campus paths. The client is built with React and TypeScript, while the server is built with Express and TypeScript.
 
 ## Project Structure
-
+```sh
 331-CAMPUS-PATHS
 ├── client
 │   ├── src
@@ -17,7 +17,7 @@ This project consists of a client-server application for displaying and interact
 │   ├── package.json
 │   └── tsconfig.json
 └── LICENSE
-
+```
 ## Getting Started
 
 ### Prerequisites
