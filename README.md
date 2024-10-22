@@ -1,4 +1,4 @@
-# Campus Paths
+# UW Campus Paths
 
 This project consists of a client-server application for displaying and interacting with UW campus paths. The client is built with React and TypeScript, while the server is built with Express and TypeScript.
 
